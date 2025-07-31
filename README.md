@@ -56,6 +56,10 @@
   <a href="https://opencv.org/" target="_blank">
     <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   </a>
+  <a href="https://spacy.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  </a>
+
 
   <!-- Cloud / DevOps -->
   <a href="https://aws.amazon.com/" target="_blank">
@@ -108,13 +112,14 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   </a>
+  <a href="https://scrapy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Scrapy-FF6347?style=for-the-badge&logo=scrapy&logoColor=white"/>
+  </a>
+
 
   <!-- Game Engines / Visualization -->
   <a href="https://unity.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  </a>
-  <a href="https://www.unrealengine.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   </a>
 </p>
 
