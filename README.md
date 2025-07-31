@@ -1,7 +1,7 @@
 <h1 align="center">Sean M. Broderick</h1>
 
 <h3 align="center">BS/MS Computer Science & Engineering at The Ohio State University</h3>
-<h3 align="center">Specializing in Artificial Intelligence with minors in Business & Math</h3>
+<h3 align="center">Specializing in Artificial Intelligence, Minoring in Business & Math</h3>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
