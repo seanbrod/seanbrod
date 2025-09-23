@@ -80,9 +80,9 @@
   <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   </a>
-  <a href="https://airflow.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  </a>
+ <a href="https://spark.apache.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+</a>
 
 
   <!-- Databases -->
