@@ -24,9 +24,6 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
@@ -43,9 +40,6 @@
   <!-- AI / ML / Data -->
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
